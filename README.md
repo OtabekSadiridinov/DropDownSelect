@@ -24,13 +24,3 @@ If you would like to work with the PWA or SSR versions of Quasar, please make th
 ```
 
 Once you've changed the the `start` entry of `scripts` in the `package.json` file accordingly, you simply need to restart the server.
-
-## Quasar Repositories
-
-* [Quasar Framework](https://github.com/quasarframework/quasar)
-
-## License
-
-Copyright (c) 2016-present Razvan Stoenescu
-
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
